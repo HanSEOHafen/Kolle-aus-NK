@@ -1,0 +1,6 @@
+{
+  "name": "Kollegah Rap Engine - Neunkirchen",
+  "description": "Deterministische Battlerap- und Reim-Architektur-KI im Stil von Kollegah (Ära 2007-2011) mit Schauplatz Neunkirchen (Saarland). Multireim-Analyse, Beat-Player und Punchline-Generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
